@@ -9,7 +9,8 @@ This repository presents the technical artefacts and configurations I created as
 ### 1.  Full Network Topology Design  
 I built and logically arranged all networking devices, including core switches, access switches, routers, wireless access points, servers, PCs, printers, IoT cameras, and smart door devices.
 
-**Screenshot:** `01_NetworkTopologyOverview.png`
+**Screenshot:** ![Uploading 01_NetworkTopologyOverview.png…]()
+
 
 ---
 
@@ -32,11 +33,11 @@ I configured 6 separate DHCP pools in the router to dynamically assign IP addres
 - Subnet mask  
 - Maximum users  
 
-**📷 Screenshot:** `03_DHCP_Pool_Configuration.png`
+** Screenshot:** `03_DHCP_Pool_Configuration.png`
 
 ---
 
-### 4. 📶 Wireless Network SSIDs & Signal  
+### 4. Wireless Network SSIDs & Signal  
 I configured 5 separate wireless networks (SSIDs) for Admin, Staff, Students, Guests, and IoT devices.  
 I assigned these SSIDs to appropriate access points and verified connectivity and signal strength.
 
@@ -47,7 +48,7 @@ I assigned these SSIDs to appropriate access points and verified connectivity an
 - GuestNet
 - IoTNet
 
-**📷 Screenshot:** `04_Wireless_Networks_Signal.png`
+** Screenshot:** `04_Wireless_Networks_Signal.png`
 
 ---
 
@@ -62,7 +63,7 @@ I implemented 6 VLANs with correct VLAN IDs and names:
 
 All VLANs were created and verified as "active" using CLI commands.
 
-**📷 Screenshot:** `05_VLAN_Status_List.png`
+**Screenshot:** `05_VLAN_Status_List.png`
 
 ---
 
