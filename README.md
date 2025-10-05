@@ -1,6 +1,16 @@
 # Secure Network Design – Holmview Primary School (Capstone Project)
 
-This repository presents the technical artefacts and configurations I created as part of my contribution to the "Holmview Primary School Secure Network" project. My role was "Wi-fi and IoT engineer", to design, configure, and document the **entire network topology, IP schema, VLAN setup, DHCP configuration, wireless network segmentation, and IoT integration** using Cisco Packet Tracer.
+This repository showcases the technical artefacts and configurations I developed as part of the Holmview Primary School Secure Network Infrastructure Project, a simulated real-world implementation designed to address the needs of a modern school institution. The project involved building a secure, segmented, and scalable campus-wide network using Cisco Packet Tracer, incorporating both wired and wireless access, VLAN-based segmentation, IoT security controls, and server integration.
+
+As the designated Wi-Fi and IoT Infrastructure Engineer, I was responsible for leading and implementing all technical elements related to the school’s end-to-end network deployment.
+My contributions included:
+	•	Designing the complete network topology in Cisco Packet Tracer, including physical and logical layout
+	•	Developing the IP addressing schema and subnetting plans for efficient routing and scalability
+	•	Creating and configuring VLANs (Admin, Staff, Students, IoT, Guest, and Servers) with proper segmentation
+	•	Building DHCP pool configurations for each VLAN using centralised DHCP servers
+	•	Deploying wireless access points with custom SSIDs and VLAN mapping for each network zone
+	•	Integrating IoT devices including smart CCTV, automated door locks, and networked printers within the IoT VLAN
+	•	Ensuring secure access controls between VLANs via access control logic and static routing
 
 ---
 
