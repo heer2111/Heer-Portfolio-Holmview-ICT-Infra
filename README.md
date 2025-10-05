@@ -21,7 +21,7 @@ I planned and implemented the full IP addressing scheme using CIDR notation and 
 - Default gateways assigned for each VLAN  
 - CIDR notation used for efficiency  
 
-**Screenshot:** `02_IPAddressingTable.png`
+**Screenshot:** ![IP Table](02_IPAddressingTable.png)
 
 ---
 
@@ -33,8 +33,7 @@ I configured 6 separate DHCP pools in the router to dynamically assign IP addres
 - Subnet mask  
 - Maximum users  
 
-** Screenshot:** `03_DHCP_Pool_Configuration.png`
-
+** Screenshot:** ![DHCP Pool](03_DHCP_Pool_Configuration.png)
 ---
 
 ### 4. Wireless Network SSIDs & Signal  
@@ -48,7 +47,7 @@ I assigned these SSIDs to appropriate access points and verified connectivity an
 - GuestNet
 - IoTNet
 
-** Screenshot:** `04_Wireless_Networks_Signal.png`
+** Screenshot:** ![Wireless SSIDs](04_Wireless_Networks_Signal.png)
 
 ---
 
@@ -63,7 +62,7 @@ I implemented 6 VLANs with correct VLAN IDs and names:
 
 All VLANs were created and verified as "active" using CLI commands.
 
-**Screenshot:** `05_VLAN_Status_List.png`
+**Screenshot:** ![VLAN Status](05_VLAN_Status_List.png)
 
 ---
 
@@ -79,8 +78,6 @@ All of the above elements were implemented in a working Packet Tracer file, incl
 ---
 
 ##  GitHub Portfolio Repo
-
-[https://github.com/YOURUSERNAME/Holmview-School-Network](https://github.com/YOURUSERNAME/Holmview-School-Network)
 
 ---
 
