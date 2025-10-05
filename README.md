@@ -43,8 +43,10 @@ I configured 6 separate DHCP pools in the router to dynamically assign IP addres
 - Subnet mask  
 - Maximum users  
 
-** Screenshot:** ![DHCP Pool](03_DHCP_Pool_Configuration.png)
+** Screenshot:** ![DHCP Pool](03_DHCP_Pool_Configuration_Table.png)
+
 ---
+
 
 ### 4. Wireless Network SSIDs & Signal  
 I configured 5 separate wireless networks (SSIDs) for Admin, Staff, Students, Guests, and IoT devices.  
