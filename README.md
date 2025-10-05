@@ -85,7 +85,7 @@ All of the above elements were implemented in a working Packet Tracer file, incl
 - Wireless access  
 - Simulated IoT cameras and smart doors  
 
-**File:** `Holmview_Network_Design.pkt`
+**File:** `holview_iot.pkt`
 
 ---
 
