@@ -9,7 +9,7 @@ This repository presents the technical artefacts and configurations I created as
 ### 1.  Full Network Topology Design  
 I built and logically arranged all networking devices, including core switches, access switches, routers, wireless access points, servers, PCs, printers, IoT cameras, and smart door devices.
 
-**Screenshot:** ![Uploading 01_NetworkTopologyOverview.png…]()
+**Screenshot:** ![Network Topology](01_NetworkTopologyOverview.png)
 
 
 ---
